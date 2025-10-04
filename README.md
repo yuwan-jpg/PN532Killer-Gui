@@ -1,5 +1,5 @@
 # PN532Killer Gui
-
+![Screenshot](https://github.com/user-attachments/assets/a172df0d-bed2-4ee6-8a4d-6c59076ad022)
 ## 软件简介
 
 PN532Killer Gui 是一款基于 PN532Killer 硬件的 NFC 工具图形界面。
