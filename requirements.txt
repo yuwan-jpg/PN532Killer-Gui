@@ -1,0 +1,9 @@
+PyQt6==6.7.1
+pyserial==3.5
+PyInstaller==6.10.0
+psutil==7.1.0
+colorama==0.4.6
+prompt-toolkit==3.0.39
+ndef==0.2
+qdarkstyle>=3.2.0
+qt-material>=2.14
